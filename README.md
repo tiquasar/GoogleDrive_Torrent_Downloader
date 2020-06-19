@@ -15,3 +15,6 @@ Go to Runtime -> Change Runtime and give GPU as the Hardware Accelerator.
 <p>Storage for torrent download can be inceased to around 350-400GB (if google drive account has a increased storage capacity,as individual personal use google accounts have 15GB storage by default,the google drive storage capacity won't increase for individual personal use google accounts having 15GB storage by default.)</p>
 
 **Downloading missing files without re-downloading torrent from beginning**: If somehow some files are missing try to re-download torrent. Fastresume will check files and resume the Torrent Downloads.
+
+<img src="https://github.com/tiquasar/GoogleDrive_Torrent_Downloader/blob/master/GoogleDrive_Torrent_Downloader_screenshot1.png" style="width:100% height=80%" >
+<img src="https://github.com/tiquasar/GoogleDrive_Torrent_Downloader/blob/master/GoogleDrive_Torrent_Downloader_screenshot2.png" style="width:100% height=80%"  >
